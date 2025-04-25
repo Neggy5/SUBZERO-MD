@@ -9,7 +9,7 @@
     "SESSION_ID": {
       "description": "Put your Subzero session-id here.",
       "required": true,
-      "value": ""
+      "value": "SUBZERO-MD~JspSUa7A#aujaZ7W__tyP-3clq2a_rtWnwq7sdE8W58-K_t19xN8"
     },
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
